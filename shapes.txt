@@ -1,0 +1,5 @@
+4
+Square 1 2 5
+Rectangle 0 0 10 4
+Circle 3 3 2.5
+Ellipse -2 5 8 6
